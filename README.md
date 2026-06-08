@@ -71,11 +71,6 @@ projetImgPros/
 ├── Projet_img_procLVAH.ipynb   # Notebook principal
 ├── asl_mlp_model.pkl           # Modèle MLP sauvegardé
 ├── label_encoder.pkl           # Label encoder sauvegardé
-├── A.PNG                       # Exemple lettre A
-├── B.png                       # Exemple lettre B
-├── C.PNG                       # Exemple lettre C
-├── D.PNG                       # Exemple lettre D
-├── E.PNG                       # Exemple lettre E
 └── README.md
 
 ##  Comment lancer le projet
