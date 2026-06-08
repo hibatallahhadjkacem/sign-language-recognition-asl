@@ -98,6 +98,10 @@ jupyter notebook Projet_img_procLVAH.ipynb
 - Créer une application mobile ou PC complète
 - Ajouter la prédiction de phrases entières
 
+##  Réalisé par
+- Hibat Allah Hadj Kacem
+- Amal Ktiti
+
 ##  Contexte académique
 - **Établissement** : Faculté des Sciences de Bizerte, Université de Carthage
 - **Classe** : CI1
